@@ -1,12 +1,14 @@
 {
-  "name": "rest-shop",
+  "name": "pasv-app",
   "version": "1.0.0",
-  "description": "A Node.js RESTful API Tutorial Project (Buield a simple shop API)",
+  "description": "An example project using Swagger JSDoc and Swagger UI Express to automatically generate OpenAPI documentation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "swagger",
+    "express",
     "node",
     "restful",
     "api"
